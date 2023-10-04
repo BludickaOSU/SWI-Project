@@ -1,0 +1,23 @@
+Napište program pro rezervaci letenek, který umožní uživatelům vyhledávat lety podle data odletu,
+příletu, výchozího letiště, destinace a dalších parametrů.
+
+Zvažte použití návrhového vzoru Singleton pro třídu, která bude poskytovat přístup k datům o letových
+spojeních. Dále vyzkoušejte implementovat návrhový vzor Strategy pro výběr algoritmu pro vyhledávání letů.
+
+Program by měl umožnit uživatelům zadat (i částečné, např jen cílové letiště) požadované informace o letu, jako jsou:
+• Datum odletu
+• Datum příletu
+• Výchozí letiště
+• Destinace (cílové letiště)
+
+Program by měl umožnit uživatelům vybrat si mezi různými algoritmy pro vyhledávání letů, jako jsou:
+• Algoritmus pro nejlevnější let
+• Algoritmus pro nejkratší let
+• Algoritmus pro nejkomfortnější let (třída ekonomická vs. business)
+
+BONUS: Při tvorbě úkolu můžete implementovat i pokročilejší funkce:
+• Možnost vyhledat lety s přestupem
+• Možnost vyhledat lety s různými aerolinkami
+
+Hodnocení bude založeno na vhodném použití rozhraní, návrhových vzorů Singleton a Strategy,
+funkčnosti programu a kreativitě řešení.

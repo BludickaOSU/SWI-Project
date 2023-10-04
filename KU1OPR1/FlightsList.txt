@@ -1,0 +1,405 @@
+{
+  "A1": {
+    "Název letu": "A1",
+    "Počáteční město": "Londýn",
+    "Konečné město": "Paříž",
+    "Odlet": "1.6.2023 v 8:00",
+    "Přílet": "1.6.2023 v 9:30",
+    "Aerolinka": "British Airways",
+    "Cena": "2000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A2": {
+    "Název letu": "A2",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Řím",
+    "Odlet": "1.6.2023 v 9:00",
+    "Přílet": "1.6.2023 v 11:30",
+    "Aerolinka": "Air France",
+    "Cena": "2300 Kč",
+    "Třída": "ekonomická"
+  },
+  "A3": {
+    "Název letu": "A3",
+    "Počáteční město": "Řím",
+    "Konečné město": "Vídeň",
+    "Odlet": "1.6.2023 v 10:00",
+    "Přílet": "1.6.2023 v 11:30",
+    "Aerolinka": "Alitalia",
+    "Cena": "2800 Kč",
+    "Třída": "ekonomická"
+  },
+  "A4": {
+    "Název letu": "A4",
+    "Počáteční město": "Vídeň",
+    "Konečné město": "Praha",
+    "Odlet": "1.6.2023 v 11:00",
+    "Přílet": "1.6.2023 v 12:00",
+    "Aerolinka": "Austrian Airlines",
+    "Cena": "1500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A5": {
+    "Název letu": "A5",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Londýn",
+    "Odlet": "1.6.2023 v 12:00",
+    "Přílet": "1.6.2023 v 13:30",
+    "Aerolinka": "EasyJet",
+    "Cena": "1700 Kč",
+    "Třída": "ekonomická"
+  },
+  "A6": {
+    "Název letu": "A6",
+    "Počáteční město": "Londýn",
+    "Konečné město": "New York",
+    "Odlet": "1.6.2023 v 13:00",
+    "Přílet": "1.6.2023 v 17:00",
+    "Aerolinka": "Virgin Atlantic",
+    "Cena": "6000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A7": {
+    "Název letu": "A7",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Barcelona",
+    "Odlet": "1.6.2023 v 12:00",
+    "Přílet": "1.6.2023 v 14:00",
+    "Aerolinka": "Vueling",
+    "Cena": "2500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A8": {
+    "Název letu": "A8",
+    "Počáteční město": "Řím",
+    "Konečné město": "Londýn",
+    "Odlet": "1.6.2023 v 13:00",
+    "Přílet": "1.6.2023 v 16:00",
+    "Aerolinka": "Alitalia",
+    "Cena": "3500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A9": {
+    "Název letu": "A9",
+    "Počáteční město": "New York",
+    "Konečné město": "Paříž",
+    "Odlet": "1.6.2023 v 14:00",
+    "Přílet": "1.6.2023 v 18:00",
+    "Aerolinka": "Delta Airlines",
+    "Cena": "5500 Kč",
+    "Třída": "business"
+  },
+  "A10": {
+    "Název letu": "A10",
+    "Počáteční město": "Řím",
+    "Konečné město": "Vídeň",
+    "Odlet": "1.6.2023 v 15:00",
+    "Přílet": "1.6.2023 v 16:30",
+    "Aerolinka": "Ryanair",
+    "Cena": "1500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A11": {
+    "Název letu": "A11",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Londýn",
+    "Odlet": "1.6.2023 v 16:00",
+    "Přílet": "1.6.2023 v 17:00",
+    "Aerolinka": "EasyJet",
+    "Cena": "1800 Kč",
+    "Třída": "ekonomická"
+  },
+  "A12": {
+    "Název letu": "A12",
+    "Počáteční město": "Vídeň",
+    "Konečné město": "New York",
+    "Odlet": "1.6.2023 v 17:00",
+    "Přílet": "1.6.2023 v 22:00",
+    "Aerolinka": "Austrian Airlines",
+    "Cena": "7000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A13": {
+    "Název letu": "A13",
+    "Počáteční město": "Praha",
+    "Konečné město": "Řím",
+    "Odlet": "1.6.2023 v 18:00",
+    "Přílet": "1.6.2023 v 19:30",
+    "Aerolinka": "Czech Airlines",
+    "Cena": "1700 Kč",
+    "Třída": "ekonomická"
+  },
+  "A14": {
+    "Název letu": "A14",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Vídeň",
+    "Odlet": "1.6.2023 v 19:00",
+    "Přílet": "1.6.2023 v 20:30",
+    "Aerolinka": "Air France",
+    "Cena": "2500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A15": {
+    "Název letu": "A15",
+    "Počáteční město": "Londýn",
+    "Konečné město": "Paříž",
+    "Odlet": "1.6.2023 v 20:00",
+    "Přílet": "1.6.2023 v 21:30",
+    "Aerolinka": "British Airways",
+    "Cena": "2300 Kč",
+    "Třída": "ekonomická"
+  },
+  "A16": {
+    "Název letu": "A16",
+    "Počáteční město": "New York",
+    "Konečné město": "Řím",
+    "Odlet": "1.6.2023 v 21:00",
+    "Přílet": "2.6.2023 v 11:00",
+    "Aerolinka": "Delta Airlines",
+    "Cena": "10000 Kč",
+    "Třída": "business"
+  },
+  "A17": {
+    "Název letu": "A17",
+    "Počáteční město": "Vídeň",
+    "Konečné město": "Praha",
+    "Odlet": "1.6.2023 v 22:00",
+    "Přílet": "1.6.2023 v 23:00",
+    "Aerolinka": "Ryanair",
+    "Cena": "1200 Kč",
+    "Třída": "ekonomická"
+  },
+  "A18": {
+    "Název letu": "A18",
+    "Počáteční město": "Londýn",
+    "Konečné město": "New York",
+    "Odlet": "1.6.2023 v 23:00",
+    "Přílet": "2.6.2023 v 3:00",
+    "Aerolinka": "Virgin Atlantic",
+    "Cena": "6000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A19": {
+    "Název letu": "A19",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Barcelona",
+    "Odlet": "1.6.2023 v 22:00",
+    "Přílet": "1.6.2023 v 23:30",
+    "Aerolinka": "Vueling",
+    "Cena": "2500 Kč",
+    "Třída": "ekonomická"
+  },
+
+  "A20": {
+    "Název letu": "A20",
+    "Počáteční město": "Řím",
+    "Konečné město": "Londýn",
+    "Odlet": "1.6.2023 v 23:00",
+    "Přílet": "2.6.2023 v 2:00",
+    "Aerolinka": "Alitalia",
+    "Cena": "3500 Kč",
+    "Třída": "ekonomická"
+  },
+ 
+  "A21": {
+    "Název letu": "A21",
+    "Počáteční město": "New York",
+    "Konečné město": "Los Angeles",
+    "Odlet": "2.6.2023 v 8:00",
+    "Přílet": "2.6.2023 v 10:30",
+    "Aerolinka": "American Airlines",
+    "Cena": "3000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A22": {
+    "Název letu": "A22",
+    "Počáteční město": "Praha",
+    "Konečné město": "Paříž",
+    "Odlet": "2.6.2023 v 9:00",
+    "Přílet": "2.6.2023 v 10:30",
+    "Aerolinka": "Air France",
+    "Cena": "2000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A23": {
+    "Název letu": "A23",
+    "Počáteční město": "Vídeň",
+    "Konečné město": "Berlín",
+    "Odlet": "2.6.2023 v 10:00",
+    "Přílet": "2.6.2023 v 11:30",
+    "Aerolinka": "EasyJet",
+    "Cena": "1500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A24": {
+    "Název letu": "A24",
+    "Počáteční město": "Londýn",
+    "Konečné město": "Madrid",
+    "Odlet": "2.6.2023 v 11:00",
+    "Přílet": "2.6.2023 v 13:30",
+    "Aerolinka": "Iberia",
+    "Cena": "2800 Kč",
+    "Třída": "ekonomická"
+  },
+  "A25": {
+    "Název letu": "A25",
+    "Počáteční město": "Barcelona",
+    "Konečné město": "Řím",
+    "Odlet": "2.6.2023 v 12:00",
+    "Přílet": "2.6.2023 v 13:30",
+    "Aerolinka": "Vueling",
+    "Cena": "1900 Kč",
+    "Třída": "ekonomická"
+  },
+  "A26": {
+    "Název letu": "A26",
+    "Počáteční město": "Los Angeles",
+    "Konečné město": "New York",
+    "Odlet": "2.6.2023 v 13:00",
+    "Přílet": "2.6.2023 v 15:30",
+    "Aerolinka": "Delta Airlines",
+    "Cena": "3500 Kč",
+    "Třída": "ekonomická"
+  },
+  "A27": {
+    "Název letu": "A27",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Berlín",
+    "Odlet": "2.6.2023 v 14:00",
+    "Přílet": "2.6.2023 v 15:30",
+    "Aerolinka": "Air France",
+    "Cena": "2200 Kč",
+    "Třída": "ekonomická"
+  },
+  "A28": {
+    "Název letu": "A28",
+    "Počáteční město": "Berlín",
+    "Konečné město": "Praha",
+    "Odlet": "2.6.2023 v 15:00",
+    "Přílet": "2.6.2023 v 16:30",
+    "Aerolinka": "Lufthansa",
+    "Cena": "1800 Kč",
+    "Třída": "ekonomická"
+  },
+  "A29": {
+    "Název letu": "A29",
+    "Počáteční město": "Madrid",
+    "Konečné město": "Barcelona",
+    "Odlet": "2.6.2023 v 16:00",
+    "Přílet": "2.6.2023 v 17:30",
+    "Aerolinka": "Iberia",
+    "Cena": "1400 Kč",
+    "Třída": "ekonomická"
+  },
+  "A30": {
+    "Název letu": "A30",
+    "Počáteční město": "Řím",
+    "Konečné město": "Londýn",
+    "Odlet": "2.6.2023 v 17:00",
+    "Přílet": "2.6.2023 v 19:30",
+    "Aerolinka": "British Airways",
+    "Cena": "3200 Kč",
+    "Třída": "ekonomická"
+  },
+  "A31": {
+    "Název letu": "A31",
+    "Počáteční město": "New York",
+    "Konečné město": "Praha",
+    "Odlet": "2.6.2023 v 18:00",
+    "Přílet": "2.6.2023 v 20:30",
+    "Aerolinka": "Czech Airlines",
+    "Cena": "4000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A32": {
+    "Název letu": "A32",
+    "Počáteční město": "Praha",
+    "Konečné město": "Lisabon",
+    "Odlet": "2.6.2023 v 19:00",
+    "Přílet": "2.6.2023 v 22:30",
+    "Aerolinka": "TAP Air Portugal",
+    "Cena": "3600 Kč",
+    "Třída": "ekonomická"
+  },
+  "A33": {
+    "Název letu": "A33",
+    "Počáteční město": "Vídeň",
+    "Konečné město": "Ženeva",
+    "Odlet": "2.6.2023 v 20:00",
+    "Přílet": "2.6.2023 v 21:30",
+    "Aerolinka": "Swiss",
+    "Cena": "2300 Kč",
+    "Třída": "ekonomická"
+  },
+  "A34": {
+    "Název letu": "A34",
+    "Počáteční město": "Londýn",
+    "Konečné město": "Frankfurt",
+    "Odlet": "2.6.2023 v 21:00",
+    "Přílet": "2.6.2023 v 23:30",
+    "Aerolinka": "British Airways",
+    "Cena": "2800 Kč",
+    "Třída": "ekonomická"
+  },
+  "A35": {
+    "Název letu": "A35",
+    "Počáteční město": "Barcelona",
+    "Konečné město": "Amsterdam",
+    "Odlet": "2.6.2023 v 22:00",
+    "Přílet": "2.6.2023 v 23:30",
+    "Aerolinka": "KLM",
+    "Cena": "2000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A36": {
+    "Název letu": "A36",
+    "Počáteční město": "Los Angeles",
+    "Konečné město": "Tokyo",
+    "Odlet": "2.6.2023 v 23:00",
+    "Přílet": "3.6.2023 v 5:30",
+    "Aerolinka": "Japan Airlines",
+    "Cena": "8000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A37": {
+    "Název letu": "A37",
+    "Počáteční město": "Paříž",
+    "Konečné město": "Dubaj",
+    "Odlet": "3.6.2023 v 0:00",
+    "Přílet": "3.6.2023 v 7:30",
+    "Aerolinka": "Emirates",
+    "Cena": "6000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A38": {
+    "Název letu": "A38",
+    "Počáteční město": "Berlín",
+    "Konečné město": "Moskva",
+    "Odlet": "3.6.2023 v 1:00",
+    "Přílet": "3.6.2023 v 4:30",
+    "Aerolinka": "Aeroflot",
+    "Cena": "3000 Kč",
+    "Třída": "ekonomická"
+  },
+  "A39": {
+    "Název letu": "A39",
+    "Počáteční město": "Madrid",
+    "Konečné město": "Řím",
+    "Odlet": "3.6.2023 v 2:00",
+    "Přílet": "3.6.2023 v 3:30",
+    "Aerolinka": "Iberia",
+    "Cena": "1900 Kč",
+    "Třída": "ekonomická"
+  },
+  "A40": {
+    "Název letu": "A40",
+    "Počáteční město": "Řím",
+    "Konečné město": "Lisabon",
+    "Odlet": "3.6.2023 v 3:00",
+    "Přílet": "3.6.2023 v 6:30",
+    "Aerolinka": "TAP Air Portugal",
+    "Cena": "2500 Kč",
+    "Třída": "ekonomická"
+  }
+}
+
