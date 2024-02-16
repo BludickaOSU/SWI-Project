@@ -1,1 +1,0 @@
-Genericky parser ktery umi naparsovat libovolně dlouhy json s libovolnym počtem atributu, je schopen naparsovat I objekt kteremui v json formatu chybí jeden atribut a nastaví jej na null.
